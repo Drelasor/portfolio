@@ -1,3 +1,29 @@
 .home{
-   
+   width: 100%;
+   height: 100%;
+
+}
+.name{
+    height: 70%;
+    width : 100%;
+    background-color: #1f1f37;
+}
+.about{
+    height: 70%;
+    width : 100%; ;
+    background-color: #2c2c4f;
+}
+.works{
+    height: 70%;
+    width : 100%;
+    background-color:#4a4a83 ;
+}
+
+h1, h2{
+  margin: 0;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 80px;
 }
